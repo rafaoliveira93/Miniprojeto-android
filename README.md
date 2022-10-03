@@ -1,4 +1,4 @@
-# projeto-android
+# MiniProjeto-android
 
 Projeto pagina Android, criado a partir do desafio do capitolo 17 do curso HTML5 e CSS3 do CURSO EM VIDEO .
 
